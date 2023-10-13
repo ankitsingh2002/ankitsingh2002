@@ -1,4 +1,4 @@
-[![MasterHead](https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47hmks8c84f24eekkxd4bne6km3ycvuc98kfittq4a&ep=v1_gifs_search&rid=giphy.gif&ct=g)](https://rishavchanda.io)
+[![MasterHead](https://https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Ankit Kumar Singh</h1>
 <h3 align="center">A passionate Software Engineer from India.</h3>
