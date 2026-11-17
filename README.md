@@ -1,11 +1,10 @@
-
 <!-- ===================================================== -->
 <!-- ANKIT SINGH | AWS CLOUD ENGINEER PROFILE README       -->
 <!-- ===================================================== -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:0F2027,50:203A43,100:2C5364&text=ANKIT%20SINGH&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=AWS%20CLOUD%20ENGINEER%20%7C%20CLOUD%20INFRASTRUCTURE%20%7C%20DEVOPS&descSize=15&descAlignY=65" width="100%" />
+<img src="https://vercel.app" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=Architecting+Highly+Available+AWS+Infrastructure;Automating+Cloud+Infrastructure+with+CloudFormation;Engineering+Zero-Downtime+Deployment+Strategies;Building+Secure+and+Scalable+Cloud+Solutions;Linux+%7C+Networking+%7C+Migration+%7C+Monitoring" />
 
@@ -134,24 +133,24 @@ My approach combines cloud engineering fundamentals with practical implementatio
 ### ☁️ AWS Cloud Services
 
 <p>
-<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
-<img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
-<img src="https://img.shields.io/badge/VPC-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/ALB-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Auto_Scaling-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/CloudFront-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Route_53-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://shields.io"/>
+<img src="https://shields.io"/>
+<img src="https://shields.io"/>
+<img src="https://shields.io"/>
+<img src="https://shields.io"/>
+<img src="https://shields.io"/>
+<img src="https://shields.io"/>
 </p>
 
 ### 💾 Storage, Database & Migration
 
 <p>
 <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
-<img src="https://img.shields.io/badge/EBS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/EFS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://shields.io"/>
+<img src="https://shields.io"/>
 <img src="https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS_DMS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/DataSync-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://shields.io"/>
+<img src="https://shields.io"/>
 <img src="https://img.shields.io/badge/Redshift-8C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -160,11 +159,11 @@ My approach combines cloud engineering fundamentals with practical implementatio
 ### ⚙️ Serverless, IaC & Observability
 
 <p>
-<img src="https://img.shields.io/badge/CloudFormation-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://shields.io"/>
 <img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white"/>
-<img src="https://img.shields.io/badge/API_Gateway-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/IAM-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://shields.io"/>
+<img src="https://shields.io"/>
+<img src="https://shields.io"/>
 </p>
 
 ### 🐧 Linux, Development & Web Technologies
@@ -172,7 +171,7 @@ My approach combines cloud engineering fundamentals with practical implementatio
 <p>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/>
-<img src="https://img.shields.io/badge/Amazon_Linux-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://shields.io"/>
 <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white"/>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
@@ -184,7 +183,6 @@ My approach combines cloud engineering fundamentals with practical implementatio
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
----
 
 ## 🏗️ FEATURED CLOUD ENGINEERING PROJECTS
 
