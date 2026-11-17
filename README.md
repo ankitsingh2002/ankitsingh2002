@@ -297,22 +297,6 @@ I enjoy solving infrastructure challenges involving high availability, secure co
 
 ---
 
-## 📊 GITHUB ANALYTICS
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ankitsingh2002&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitsingh2002&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=ankitsingh2002&theme=tokyonight&hide_border=true" width="70%"/>
-
-</div>
-
-
----
 
 ## 🎓 EDUCATION
 
