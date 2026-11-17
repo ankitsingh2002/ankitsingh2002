@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F2027,50:203A43,100:2C5364&text=ANKIT%20SINGH&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AWS%20CLOUD%20ENGINEER%20%7C%20CLOUD%20INFRASTRUCTURE%20%7C%20DEVOPS&descSize=14&descAlignY=60" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F2027,50:203A43,100:2C5364&text=ANKIT%20SINGH&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AWS%20CLOUD%20ENGINEER%20%7C%20CLOUD%20INFRASTRUCTURE&descSize=14&descAlignY=60" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=Architecting+Highly+Available+AWS+Infrastructure;Automating+Cloud+Infrastructure+with+CloudFormation;Engineering+Zero-Downtime+Deployment+Strategies;Building+Secure+and+Scalable+Cloud+Solutions;Linux+%7C+Networking+%7C+Migration+%7C+Monitoring" />
 
@@ -19,45 +19,32 @@
 
 ## 👨‍💻 ABOUT ME
 
-```yaml
-name: Ankit Singh
-role: AWS Cloud Engineer
-location: West Bengal, India
+<table>
+<tr>
+<td width="62%" valign="top">
 
-specialization:
-  - Cloud Infrastructure Architecture
-  - AWS Networking & Security
-  - Infrastructure as Code (IaC)
-  - Cloud Migration & Data Replication
-  - High Availability & Deployment Strategies
-  - Linux System Administration
-  - Monitoring & Observability
+I am an **AWS Cloud Engineer** focused on designing, deploying, and managing scalable cloud infrastructure using Amazon Web Services.
 
-operating_systems:
-  - Red Hat Enterprise Linux
-  - Amazon Linux
-  - Windows
+My technical experience covers **Multi-AZ architectures, advanced VPC networking, infrastructure automation, database migration, shared storage, and serverless computing.**
 
-primary_cloud: Amazon Web Services
+I enjoy solving infrastructure challenges involving high availability, secure communication, system monitoring, and data synchronization across **Red Hat Enterprise Linux** and **Amazon Linux** environments.
 
-engineering_focus:
-  - Reliability
-  - Scalability
-  - Security
-  - Automation
-  - Cost Optimization
-```
+</td>
+<td width="38%" valign="top">
 
-I am an AWS Cloud Engineer focused on designing, deploying, and managing scalable cloud infrastructure using Amazon Web Services.
+**📌 Quick Profile**
 
-My technical experience covers **Multi-AZ architectures, advanced VPC networking, infrastructure automation, database migration, shared storage, serverless computing, and production-oriented deployment strategies.**
+- **Role:** AWS Cloud Engineer
+- **Primary Cloud:** Amazon Web Services
+- **OS:** RHEL, Amazon Linux, Windows
+- **IaC:** CloudFormation (YAML / JSON)
+- **Focus:** Reliability, Security & Cost Optimization
+- **Location:** West Bengal, India
 
-I enjoy solving infrastructure challenges involving availability, secure communication, system monitoring, application deployment, and data synchronization.
+</td>
+</tr>
+</table>
 
-My approach combines cloud engineering fundamentals with practical implementation across Linux environments, AWS networking, storage, compute, databases, and automation.
-
-
----
 
 ## ⚡ ENGINEERING SNAPSHOT
 
