@@ -1,238 +1,393 @@
 
+<!-- ===================================================== -->
+<!-- ANKIT SINGH | AWS CLOUD ENGINEER PROFILE README       -->
+<!-- ===================================================== -->
+
 <div align="center">
 
-# Hi, I'm Ankit Singh 👋
+<img src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:0F2027,50:203A43,100:2C5364&text=ANKIT%20SINGH&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=AWS%20CLOUD%20ENGINEER%20%7C%20CLOUD%20INFRASTRUCTURE%20%7C%20DEVOPS&descSize=15&descAlignY=65" width="100%" />
 
-### AWS Cloud Engineer | Cloud Infrastructure | DevOps Enthusiast
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=Architecting+Highly+Available+AWS+Infrastructure;Automating+Cloud+Infrastructure+with+CloudFormation;Engineering+Zero-Downtime+Deployment+Strategies;Building+Secure+and+Scalable+Cloud+Solutions;Linux+%7C+Networking+%7C+Migration+%7C+Monitoring" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=AWS+Cloud+Engineer;Cloud+Infrastructure+Enthusiast;Linux+%7C+Networking+%7C+Automation;Building+Scalable+Cloud+Solutions" alt="Typing SVG" />
+<br/>
+
+<a href="mailto:ankit05singh2002@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/ankit-singh-40162244a/">
+<img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/ankitsingh2002">
+<img src="https://img.shields.io/badge/GITHUB-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=ankitsingh2002&label=PROFILE%20VIEWS&color=0e75b6&style=flat-square" />
 
 </div>
 
-<p align="center">
-  <a href="mailto:ankit05singh2002@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/YOUR-GITHUB-USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+---
+
+## 👨‍💻 ABOUT ME
+
+```yaml
+name: Ankit Singh
+role: AWS Cloud Engineer
+location: West Bengal, India
+
+specialization:
+  - Cloud Infrastructure Architecture
+  - AWS Networking & Security
+  - Infrastructure as Code (IaC)
+  - Cloud Migration & Data Replication
+  - High Availability & Deployment Strategies
+  - Linux System Administration
+  - Monitoring & Observability
+
+operating_systems:
+  - Red Hat Enterprise Linux
+  - Amazon Linux
+  - Windows
+
+primary_cloud: Amazon Web Services
+
+engineering_focus:
+  - Reliability
+  - Scalability
+  - Security
+  - Automation
+  - Cost Optimization
+```
+
+I am an AWS Cloud Engineer focused on designing, deploying, and managing scalable cloud infrastructure using Amazon Web Services.
+
+My technical experience covers **Multi-AZ architectures, advanced VPC networking, infrastructure automation, database migration, shared storage, serverless computing, and production-oriented deployment strategies.**
+
+I enjoy solving infrastructure challenges involving availability, secure communication, system monitoring, application deployment, and data synchronization.
+
+My approach combines cloud engineering fundamentals with practical implementation across Linux environments, AWS networking, storage, compute, databases, and automation.
+
+---
+
+## ⚡ ENGINEERING SNAPSHOT
+
+<table>
+<tr>
+<td width="50%">
+
+**☁️ Cloud Engineering**
+
+- AWS Infrastructure
+- Multi-AZ Architecture
+- VPC & Network Security
+- EC2 & Auto Scaling
+- Load Balancing
+- CloudFront & S3
+
+</td>
+<td width="50%">
+
+**⚙️ Automation & Operations**
+
+- CloudFormation
+- YAML / JSON
+- Bash Scripting
+- Linux Administration
+- CloudWatch Agent
+- Infrastructure Monitoring
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🔄 Deployment & Migration**
+
+- Blue-Green Deployment
+- AWS DMS
+- AWS DataSync
+- EBS / EFS
+- Database Replication
+- Hybrid Migration
+
+</td>
+<td width="50%">
+
+**🔐 Security & Reliability**
+
+- IAM Least Privilege
+- Security Groups
+- Private Subnets
+- VPC Peering
+- OAC & Bucket Policies
+- High Availability
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ TECHNOLOGY ECOSYSTEM
+
+### ☁️ AWS Cloud Services
+
+<p>
+<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
+<img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
+<img src="https://img.shields.io/badge/VPC-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/ALB-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Auto_Scaling-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/CloudFront-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Route_53-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</p>
+
+### 💾 Storage, Database & Migration
+
+<p>
+<img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
+<img src="https://img.shields.io/badge/EBS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/EFS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS_DMS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/DataSync-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redshift-8C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+### ⚙️ Serverless, IaC & Observability
+
+<p>
+<img src="https://img.shields.io/badge/CloudFormation-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white"/>
+<img src="https://img.shields.io/badge/API_Gateway-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/IAM-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</p>
+
+### 🐧 Linux, Development & Web Technologies
+
+<p>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon_Linux-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white"/>
+<img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ---
 
-### 👨‍💻 Executive Summary
+## 🏗️ FEATURED CLOUD ENGINEERING PROJECTS
 
-I am a results-driven **AWS Cloud Engineer** with hands-on experience across a broad range of **AWS services**, specializing in cloud infrastructure, networking, automation, deployment, monitoring, and migration.
+### 01 | Multi-AZ Three-Tier AWS Infrastructure
 
-I have practical experience designing highly available multi-tier VPC architectures, automating infrastructure using **AWS CloudFormation (YAML/JSON)**, implementing **Blue-Green Deployment** strategies, managing centralized storage with **Amazon EFS/EBS**, and performing hybrid cloud migrations using **AWS DMS and DataSync**.
+<sub>INFRASTRUCTURE ARCHITECTURE · HIGH AVAILABILITY · INFRASTRUCTURE AS CODE</sub>
 
-My technical foundation includes **Linux Administration (RHEL and Amazon Linux)**, networking, database management, server configuration, and cloud security. I focus on building scalable, secure, reliable, and cost-conscious cloud infrastructure.
+**Technology:** AWS CloudFormation | VPC | EC2 | ALB | Auto Scaling | EFS | Amazon Linux
 
----
+- **Infrastructure Automation:** Designed modular CloudFormation templates in YAML to provision networking and compute resources through Infrastructure as Code.
+- **Multi-AZ Network Design:** Implemented public and private subnet segmentation, Internet Gateway, NAT Gateway, Elastic IPs, and custom route tables.
+- **Application Availability:** Integrated Application Load Balancer, target groups, and health checks with Auto Scaling EC2 instances.
+- **Network Isolation:** Separated presentation, application, and database tiers using security group references and controlled network access.
 
-### ⚡ At a Glance
+### 02 | End-to-End Database Migration & Continuous Replication
 
-| Area | Details |
-| :--- | :--- |
-| **Target Role** | AWS Cloud Engineer / Cloud Infrastructure & DevOps Associate |
-| **Core Cloud Stack** | AWS, VPC, EC2, ALB, Auto Scaling, S3, EFS, EBS, CloudFront, RDS, DMS, DataSync, Lambda |
-| **Deployment & Monitoring** | Blue-Green Deployment, CloudWatch Agent, Custom AMIs, Launch Templates |
-| **IaC & Automation** | AWS CloudFormation (YAML & JSON), Bash Scripting |
-| **Databases** | PostgreSQL, MySQL, Amazon RDS, AWS Redshift, pgAdmin |
-| **Operating Systems** | Red Hat Enterprise Linux (RHEL 9 & 10), Amazon Linux, Windows |
-| **Web & Application Stack** | LAMP Stack, Apache, PHP, WordPress, React, JavaScript |
-| **Professional Experience** | Project Manager at Livspace; Web Development Intern at Clothbuddies |
-| **Education** | B.Tech in Electronics & Communication Engineering – 8.20 CGPA |
+<sub>DATABASE ENGINEERING · HYBRID MIGRATION · DATA CONSISTENCY</sub>
 
----
+**Technology:** AWS DMS | Amazon RDS | PostgreSQL | pgAdmin | VPC | Security Groups
 
-### 🛠️ Technical Skills & Tech Stack
+- **Database Migration:** Implemented PostgreSQL database migration from an on-premises environment to managed Amazon RDS.
+- **Replication Architecture:** Configured DMS replication instances, source and target endpoints, and replication tasks.
+- **Continuous Data Synchronization:** Explored ongoing replication using Change Data Capture (CDC) for minimizing migration downtime.
+- **Database Security:** Deployed RDS within private subnets and restricted database connectivity through security groups.
 
-#### ☁️ Cloud Compute, Networking & CDN
+### 03 | Serverless REST API & Event-Driven Backend
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
-![VPC](https://img.shields.io/badge/VPC-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![CloudFront](https://img.shields.io/badge/CloudFront-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white)
-![ALB](https://img.shields.io/badge/Load_Balancer-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Auto Scaling](https://img.shields.io/badge/Auto_Scaling-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+<sub>SERVERLESS COMPUTING · API INTEGRATION · IAM SECURITY</sub>
 
-#### 💾 Storage, Databases & Migration
+**Technology:** AWS Lambda | API Gateway | IAM | CloudWatch | JSON
 
-![S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
-![EFS](https://img.shields.io/badge/Amazon_EFS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![EBS](https://img.shields.io/badge/Amazon_EBS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![RDS](https://img.shields.io/badge/Amazon_RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![DMS](https://img.shields.io/badge/AWS_DMS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![DataSync](https://img.shields.io/badge/AWS_DataSync-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Redshift](https://img.shields.io/badge/Redshift-8C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=white)
+- **Serverless Backend:** Developed a pay-per-use REST API architecture using API Gateway and AWS Lambda.
+- **Request Processing:** Integrated HTTP requests with Lambda execution workflows and JSON-based data processing.
+- **Least-Privilege Security:** Configured IAM execution roles with controlled service permissions.
+- **Operational Visibility:** Integrated CloudWatch logging for execution tracking and error diagnostics.
 
-#### ⚙️ Serverless, IaC & Monitoring
+### 04 | Secure Global Content Delivery Architecture
 
-![CloudFormation](https://img.shields.io/badge/CloudFormation-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
-![API Gateway](https://img.shields.io/badge/API_Gateway-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![IAM](https://img.shields.io/badge/IAM-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+<sub>CDN ENGINEERING · EDGE CACHING · ORIGIN SECURITY</sub>
 
-#### 🐧 Operating Systems, Languages & Web Technologies
+**Technology:** CloudFront | S3 | Origin Access Control | Bucket Policies | SSL/TLS
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Red Hat](https://img.shields.io/badge/RHEL-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
-![Amazon Linux](https://img.shields.io/badge/Amazon_Linux-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+- **Global Distribution:** Configured CloudFront distribution with Amazon S3 as the origin for globally distributed static content.
+- **Private Origin Architecture:** Blocked public S3 access and implemented Origin Access Control (OAC).
+- **Access Governance:** Configured restrictive bucket policies allowing CloudFront to access the origin.
+- **Secure Delivery:** Enabled HTTPS-based content delivery through CloudFront.
+
+### 05 | Production LAMP Stack & WordPress Deployment
+
+<sub>LINUX ADMINISTRATION · WEB SERVER ENGINEERING · APPLICATION HOSTING</sub>
+
+**Technology:** Amazon Linux | RHEL | Apache | MySQL | PHP | WordPress | EC2
+
+- **Server Provisioning:** Configured Linux-based EC2 environments with Apache HTTP Server, PHP, and MySQL.
+- **Application Integration:** Integrated WordPress with the MySQL database backend.
+- **Web Server Configuration:** Configured PHP modules, Apache virtual hosts, and application services.
+- **Service Management:** Worked with Linux service management and application recovery workflows.
 
 ---
 
-### 💼 Professional Experience
+## 🧪 ADVANCED CLOUD ENGINEERING LABS
 
-#### Project Manager — Livspace
-*February 2025 – April 2026*
+### 01 | Zero-Downtime Blue-Green Deployment on EC2 & EBS
 
-- **End-to-End Project Delivery:** Managed complete project lifecycles from planning to final delivery, ensuring timelines, quality standards, and SLA compliance.
-- **Resource & Cost Optimization:** Coordinated cross-functional teams, managed budgets, and streamlined operational workflows.
-- **Risk & Stakeholder Management:** Handled stakeholder communication, risk mitigation, escalation management, and project execution.
-- **Process Standardization:** Established quality assurance checkpoints and structured workflows to improve delivery reliability.
+**Technology:** EC2 | EBS | ALB | Target Groups | Custom AMIs
 
-#### Web Development Intern (React) — Clothbuddies
-*November 2024 – December 2024*
+- **Parallel Infrastructure:** Maintained separate Blue (v1) and Green (v2) environments for controlled application releases.
+- **Traffic Management:** Used ALB listener rules and target group traffic shifting to control application traffic between environments.
+- **Rollback Strategy:** Retained the previous environment for rapid rollback in case of deployment failure.
+- **Deployment Isolation:** Used dedicated EC2 instances and EBS-backed storage for environment separation.
 
-- **Frontend Development:** Developed responsive UI components using React and JavaScript.
-- **API Integration:** Integrated RESTful backend services into frontend applications.
-- **Version Control:** Worked with Git and GitHub in an agile development environment.
-- **Application Development:** Gained practical exposure to application architecture and deployment workflows.
+### 02 | Centralized Shared Storage with Amazon EFS
 
----
+**Technology:** EFS | EC2 | NFS | Security Groups | Multi-AZ
 
-### 🚀 Featured Cloud Projects
+- **Distributed Storage Challenge:** Addressed local storage limitations across horizontally scaled EC2 instances.
+- **Shared Filesystem:** Configured a centralized EFS filesystem and mounted it across multiple Linux EC2 instances.
+- **Network Security:** Configured NFS access over TCP port 2049 using security groups.
+- **Multi-Instance Access:** Enabled connected instances to access shared application files and configuration data.
 
-#### 1. AWS 3-Tier Web Application Architecture
+### 03 | Automated Hybrid Data Migration using AWS DataSync
 
-> **Tech Stack:** AWS CloudFormation (YAML) | VPC | EC2 | ALB | Auto Scaling | EFS | Amazon Linux
+**Technology:** AWS DataSync | S3 | EFS | On-Premises Agent | IAM
 
-- **Automated IaC Provisioning:** Designed and deployed a modular CloudFormation template to provision a Multi-AZ VPC architecture with public and private subnets, route tables, Internet Gateway, NAT Gateway, and Elastic IPs.
-- **High Availability & Load Balancing:** Configured an internet-facing Application Load Balancer (ALB), target groups, and health checks to distribute traffic across Auto Scaling EC2 instances.
-- **Defense-in-Depth Security:** Segregated presentation, application, and database tiers using dedicated subnet layers and security groups.
+- **Hybrid Data Transfer:** Configured DataSync agents and tasks for transferring data from on-premises storage to AWS.
+- **AWS-to-AWS Synchronization:** Implemented synchronization workflows between Amazon S3 and Amazon EFS.
+- **Data Integrity:** Used checksum-based verification and incremental transfer capabilities.
+- **Transfer Optimization:** Explored bandwidth throttling and scheduled synchronization.
 
-#### 2. End-to-End Database & Server Migration (On-Premises to AWS)
+### 04 | Deep System & Application Monitoring using CloudWatch Agent
 
-> **Tech Stack:** AWS DMS | Amazon RDS | PostgreSQL | pgAdmin | VPC | Security Groups
+**Technology:** CloudWatch Agent | CloudWatch Logs | EC2 Linux | IAM | Metrics
 
-- **Database Migration:** Migrated an on-premises PostgreSQL database to Amazon RDS using pgAdmin and secure network connectivity.
-- **Continuous Replication:** Configured AWS DMS replication instances, source and target endpoints, and replication tasks for ongoing database synchronization.
-- **Database Security:** Deployed RDS in private subnets without public IP exposure and restricted access through security groups.
+- **Custom Agent Configuration:** Installed and configured the Unified CloudWatch Agent on Linux EC2 instances.
+- **Log Collection:** Created custom JSON configuration to collect system logs such as `/var/log/messages` and `/var/log/secure`.
+- **Custom Metrics:** Configured memory and disk utilization monitoring beyond default EC2 hypervisor metrics.
+- **Proactive Monitoring:** Integrated CloudWatch Logs and CloudWatch Alarms for operational visibility and alerting.
 
-#### 3. Serverless REST API & Event-Driven Backend Workflow
+### 05 | Secure Cross-VPC Private Network Peering
 
-> **Tech Stack:** AWS Lambda | Amazon API Gateway | IAM | CloudWatch | JSON
+**Technology:** VPC Peering | Route Tables | Security Groups | Private Subnets | CIDR
 
-- **Serverless Architecture:** Built a pay-per-use backend using AWS Lambda integrated with Amazon API Gateway to process RESTful HTTP requests.
-- **IAM Security:** Implemented least-privilege IAM execution roles for Lambda functions.
-- **Monitoring:** Integrated CloudWatch log groups for execution tracking, error diagnostics, and monitoring.
-
-#### 4. Global Content Delivery & Secure Static Hosting via Amazon CloudFront
-
-> **Tech Stack:** Amazon CloudFront | Amazon S3 | Origin Access Control (OAC) | Bucket Policies | SSL/TLS
-
-- **Global Content Delivery:** Configured CloudFront with Amazon S3 as the origin to distribute static web assets through global edge locations.
-- **S3 Security:** Blocked public S3 access and configured Origin Access Control (OAC) with bucket policies.
-- **Secure Delivery:** Enabled encrypted HTTPS content delivery through CloudFront.
-
-#### 5. Production LAMP Stack & WordPress Deployment on Linux
-
-> **Tech Stack:** Amazon Linux / RHEL | Apache HTTP Server | MySQL | PHP | WordPress | EC2
-
-- **Full-Stack Server Engineering:** Provisioned, configured, and hardened a LAMP (Linux, Apache, MySQL, PHP) stack on Amazon Linux / RHEL instances.
-- **Dynamic CMS & Database Integration:** Configured PHP modules, Apache virtual hosts, and integrated a WordPress application with a backend MySQL database.
-- **Service Management:** Configured Linux services and application recovery workflows.
+- **Private Connectivity:** Established communication between isolated VPC environments using VPC Peering.
+- **CIDR Planning:** Designed non-overlapping CIDR ranges to avoid address conflicts.
+- **Route Engineering:** Updated custom route tables to enable private communication between peered networks.
+- **Network Security:** Applied restrictive security group rules to control inter-VPC traffic.
 
 ---
 
-### 🧪 Hands-On Cloud Engineering Labs & Advanced Implementations
+## 💼 PROFESSIONAL EXPERIENCE
 
-#### 1. Zero-Downtime Blue-Green Deployment on EC2 & EBS
+### Project Manager — Livspace
 
-> **Stack:** Amazon EC2 | Amazon EBS | ALB | Target Groups | Custom AMIs
+**February 2025 – April 2026**
 
-- **Parallel Environment Rollout:** Implemented a Blue-Green Deployment strategy using two parallel environments: Blue running v1 and Green running tested v2, on EC2 instances backed by dedicated EBS volumes.
-- **Traffic Cutover & Rollback:** Used ALB listener rules and target group traffic shifting to move live traffic between environments while retaining the previous environment for rollback.
+- **Project Lifecycle Management:** Managed end-to-end project delivery, planning, coordination, execution, and final handover.
+- **Cross-Functional Leadership:** Coordinated engineering teams, stakeholders, and multi-vendor operational workflows.
+- **Resource & Cost Governance:** Managed resource allocation, budget planning, and operational efficiency.
+- **Risk & SLA Management:** Handled escalations, quality checkpoints, timelines, and SLA compliance.
 
-#### 2. Centralized Shared Storage with Amazon EFS
+### Web Development Intern (React) — Clothbuddies
 
-> **Stack:** Amazon EFS | EC2 | NFS (Port 2049) | Security Groups | Multi-AZ
+**November 2024 – December 2024**
 
-- **Shared Storage Architecture:** Addressed the challenge of locally stored files and configuration data being unavailable across newly scaled EC2 instances.
-- **Multi-Node Synchronization:** Mounted a shared Amazon EFS file system across multiple EC2 instances and Availability Zones, enabling connected servers to access shared files and configurations.
-
-#### 3. Automated Hybrid Data Migration using AWS DataSync
-
-> **Stack:** AWS DataSync | Amazon S3 | Amazon EFS | On-Premises Agent | IAM
-
-- **Hybrid & AWS-to-AWS Transfers:** Configured DataSync agents and tasks for encrypted file transfers from on-premises storage to AWS and synchronization between S3 and EFS.
-- **Data Integrity & Scheduling:** Used checksum verification, bandwidth throttling, and scheduled incremental synchronization.
-
-#### 4. Deep System & Application Log Monitoring via CloudWatch Agent
-
-> **Stack:** Amazon CloudWatch Agent | CloudWatch Logs | EC2 (Linux) | IAM Roles | Metrics
-
-- **OS-Level Telemetry & Log Streaming:** Installed and configured the Unified CloudWatch Agent on Linux EC2 instances using custom JSON configuration files to stream `/var/log/messages`, `/var/log/secure`, and application logs to CloudWatch Logs.
-- **Custom Metrics & Alerting:** Configured memory and disk utilization metrics beyond default EC2 hypervisor metrics and established CloudWatch Alarms for proactive monitoring.
-
-#### 5. Secure Cross-VPC Private Network Peering
-
-> **Stack:** AWS VPC Peering | Route Tables | Security Groups | Private Subnets | CIDR
-
-- **Private Backbone Connectivity:** Established private connectivity between isolated VPCs using AWS VPC Peering.
-- **Route & Firewall Governance:** Configured non-overlapping CIDR blocks, custom route tables, and restrictive security groups to control inter-VPC communication.
+- Developed responsive frontend components using React and JavaScript.
+- Integrated RESTful backend APIs into application workflows.
+- Used Git and GitHub for version control and collaborative development.
+- Gained exposure to application architecture and software delivery workflows.
 
 ---
 
-### 🎓 Education
+## 📊 GITHUB ANALYTICS
 
-**B.Tech in Electronics & Communication Engineering**
+<div align="center">
 
-Asansol Engineering College, West Bengal
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ankitsingh2002&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-*2020 – 2024* | **CGPA: 8.20 / 10**
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitsingh2002&layout=compact&theme=tokyonight&hide_border=true" />
 
-**Relevant Coursework:**
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=ankitsingh2002&theme=tokyonight&hide_border=true" width="70%"/>
+
+</div>
+
+---
+
+## 🎓 EDUCATION
+
+**Bachelor of Technology (B.Tech)**
+
+Electronics & Communication Engineering
+
+**Asansol Engineering College, West Bengal**
+
+2020 – 2024 | **CGPA: 8.20 / 10**
+
+Relevant Coursework:
+
 - Computer Networks
 - Operating Systems
-- Database Management Systems (DBMS)
+- Database Management Systems
 - Computer Architecture
 - Systems Programming
 
 ---
 
-### 📫 Connect With Me
+## 🎯 CURRENT ENGINEERING INTERESTS
 
-I am interested in opportunities related to AWS Cloud Engineering, Cloud Infrastructure, Linux Administration, and DevOps.
+- Advanced AWS Infrastructure Architecture
+- Cloud Security & Network Engineering
+- Infrastructure as Code & Automation
+- Cloud Migration & Disaster Recovery
+- DevOps & CI/CD Engineering
+- Monitoring, Observability & Reliability
+- Cloud Cost Optimization (FinOps)
 
-<p align="center">
-  <a href="mailto:ankit05singh2002@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/YOUR-GITHUB-USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+---
 
-<p align="center">
-  <i>Building, Learning, and Automating in the Cloud ☁️</i>
-</p>
+## 🤝 LET'S CONNECT
+
+Interested in discussing AWS architecture, cloud infrastructure, Linux administration, migration strategies, or engineering opportunities?
+
+<div align="center">
+
+<a href="mailto:ankit05singh2002@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ankit-singh-40162244a/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/ankitsingh2002">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
+
+**BUILD. AUTOMATE. SCALE. SECURE.**
+
+*Engineering reliable cloud infrastructure, one architecture at a time.* ☁️
+
+</div>
